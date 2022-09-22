@@ -7,10 +7,14 @@ private void processorName() {
 private void ramSize() {
 	System.out.println("Ram Size is 8GB");
 }
+private void phoneName() {
+	System.out.println("Phone Name is Redmi");
+}
 public static void main(String[] args) {
 	InternalStorage I = new InternalStorage();
 	I.processorName();
 	I.ramSize();
 	I.size();
+	I.phoneName();
 }
 }
