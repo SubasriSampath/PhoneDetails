@@ -9,6 +9,7 @@ private void ramSize() {
 }
 private void phoneName() {
 	System.out.println("Phone Name is Vivo");
+	System.out.println("Buy 1 Get 1 FREE");
 }
 public static void main(String[] args) {
 	InternalStorage I = new InternalStorage();
